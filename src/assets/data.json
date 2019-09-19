@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "ajith",
+        "parentId": null
+    },
+    {
+        "id": 2,
+        "name": "amal",
+        "parentId": 1
+    },
+    {
+        "id": 3,
+        "name": "anil",
+        "parentId": null
+    },
+    {
+        "id": 4,
+        "name": "babu",
+        "parentId": 1
+    },
+    {
+        "id": 5,
+        "name": "arun",
+        "parentId": 3
+    }
+]
